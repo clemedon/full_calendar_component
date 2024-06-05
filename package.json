@@ -30,8 +30,6 @@
     "@fullcalendar/list": "^6.1.11",
     "@fullcalendar/multimonth": "^6.1.11",
     "@fullcalendar/react": "^6.1.11",
-    "@fullcalendar/resource-timegrid": "^6.1.11",
-    "@fullcalendar/resource-timeline": "^6.1.11",
     "@fullcalendar/timegrid": "^6.1.11",
     "@mantine/dates": "^7.7.1",
     "dayjs": "^1.11.10",
